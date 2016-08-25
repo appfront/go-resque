@@ -1,9 +1,9 @@
 package resque
 
 import (
-	"github.com/kavu/go-resque"
-	"github.com/kavu/go-resque/driver"
-	"github.com/vmihailenco/redis/v2"
+	"github.com/appfront/go-resque"
+	"github.com/appfront/go-resque/driver"
+	"gopkg.in/redis.v3"
 )
 
 func init() {

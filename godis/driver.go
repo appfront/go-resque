@@ -1,8 +1,8 @@
 package resque
 
 import (
-	"github.com/kavu/go-resque"
-	"github.com/kavu/go-resque/driver"
+	"github.com/appfront/go-resque"
+	"github.com/appfront/go-resque/driver"
 	"github.com/simonz05/godis/redis"
 )
 
